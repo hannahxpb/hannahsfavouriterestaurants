@@ -1,0 +1,137 @@
+[
+    {
+        "NAME": "Vegano Flavors",
+        "STREET": "Raumerstr. 6",
+        "CATEGORY": "Levant and Oriental Vegan Dishes",
+        "URL": "https://vegano-flavors.com/",
+        "PRICE RANGE": "$$",
+        "LAT": "52.54341",
+        "LON": "13.41737"
+    },
+    {
+        "NAME": "Swing Kitchen",
+        "STREET": "Rosenthaler Str. 63-64",
+        "CATEGORY": "Comfort Food Burgers",
+        "URL": "http://swingkitchen.com/",
+        "PRICE RANGE": "$$",
+        "LAT": "52.52782",
+        "LON": "13.40298"
+    },
+    {
+        "NAME": "Hummus & Friends",
+        "STREET": "Oranienburger Str. 27",
+        "CATEGORY": "Hummus Heaven",
+        "URL": "http://hummus-and-friends.com/",
+        "PRICE RANGE": "$$",
+        "LAT": "52.52467",
+        "LON": "13.39505"
+    },
+    {
+        "NAME": "Lucky Leek",
+        "STREET": "Kollwitzstr. 54",
+        "CATEGORY": "Fine Dining",
+        "URL": "http://www.lucky-leek.com/",
+        "PRICE RANGE": "$$$",
+        "LAT": "52.53498",
+        "LON": " 13.41677"
+    },
+    {
+        "NAME": "Hacis Gem\u00fcse Kebap",
+        "STREET": "Hermannstra\u00dfe 46",
+        "CATEGORY": "Best Berlin D\u00f6ner and Kebap",
+        "URL": "NONE",
+        "PRICE RANGE": "$",
+        "LAT": "52.47996",
+        "LON": "13.42562"
+    },
+    {
+        "NAME": "Buya Izakaya Ramen",
+        "STREET": "Reichenberger Str. 36",
+        "CATEGORY": "Ramen and Japanese Dishes",
+        "URL": "https://buyarestaurants.com/buya-ramen-kreuzberg.html",
+        "PRICE RANGE": "$$",
+        "LAT": "52.49721",
+        "LON": " 13.42335"
+    },
+    {
+        "NAME": "Zeus Pizza & Pide",
+        "STREET": "Boxhagener Str. 30",
+        "CATEGORY": "Vegan Italian Pizza and Pide",
+        "URL": "https://www.zeuspizzeria.de/men%C3%BC-speisen/",
+        "PRICE RANGE": "$$",
+        "LAT": "52.51247",
+        "LON": "13.45891"
+    },
+    {
+        "NAME": "li.ke | serious thai vegan",
+        "STREET": "Gr\u00fcnberger Str. 69",
+        "CATEGORY": "Thai Tapas",
+        "URL": "https://www.likethaivegan.de/",
+        "PRICE RANGE": "$$",
+        "LAT": "52.51179",
+        "LON": "13.45866"
+    },
+    {
+        "NAME": "Brammibal\u2019s Donuts",
+        "STREET": "Rosa-Luxemburg-Stra\u00dfe 5",
+        "CATEGORY": "Best Vegan Donuts",
+        "URL": "https://www.brammibalsdonuts.com/menu/",
+        "PRICE RANGE": "$",
+        "LAT": "52.52460",
+        "LON": "13.40933"
+    },
+    {
+        "NAME": "FREA Bakery",
+        "STREET": "Gartenstr. 9",
+        "CATEGORY": "Baked Organic Plant-Based Goods",
+        "URL": "http://www.freabakery.de/",
+        "PRICE RANGE": "$$",
+        "LAT": "52.53031",
+        "LON": "13.39200"
+    },
+    {
+        "NAME": "1990 Vegan Living",
+        "STREET": "Krossener Str. 19",
+        "CATEGORY": "Vietnamese Fusion Kitchen",
+        "URL": "http://www.restaurant1990.de/",
+        "PRICE RANGE": "$$",
+        "LAT": "52.51053",
+        "LON": "13.45857"
+    },
+    {
+        "NAME": "Vedang Plant Burger",
+        "STREET": "Grunerstr. 20",
+        "CATEGORY": "Burgers and Loaded Fries",
+        "URL": "https://www.vedang.de/menu",
+        "PRICE RANGE": "$$",
+        "LAT": "52.52099",
+        "LON": "13.41707"
+    },
+    {
+        "NAME": "Plant Base",
+        "STREET": "Prenzlauer Allee 208",
+        "CATEGORY": "Cozy Breakfast Cafe",
+        "URL": "http://www.plantbase.berlin/",
+        "PRICE RANGE": "$$",
+        "LAT": "52.53695",
+        "LON": "13.42246"
+    },
+    {
+        "NAME": "Berlin Cigk\u00f6fte Kreuzberg",
+        "STREET": "Kottbusser Damm 70",
+        "CATEGORY": "Delicious Cigk\u00f6fte and Wraps",
+        "URL": "https://www.lieferando.de/speisekarte/cikoefte-vegan-berlin",
+        "PRICE RANGE": "$",
+        "LAT": "52.48969",
+        "LON": "13.42441"
+    },
+    {
+        "NAME": "Miss Phuong",
+        "STREET": "Prenzlauer Allee 226",
+        "CATEGORY": "Cozy Vietnamese Dishes",
+        "URL": "https://missphuong.de/",
+        "PRICE RANGE": "$",
+        "LAT": "52.53343",
+        "LON": "13.42039"
+    }
+]
